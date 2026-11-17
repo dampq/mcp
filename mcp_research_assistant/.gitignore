@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+research.db
+research.db-*
+documents/
